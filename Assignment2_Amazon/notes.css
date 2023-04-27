@@ -1,0 +1,45 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  
+  section{
+    border: 10px solid gray;
+    height: 90svh;
+    max-width: 90dvw;
+    position: relative;
+    overflow: auto;
+  }
+   
+  header{
+    border: 5px solid yellow;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    position: relative;
+  }
+  
+  .container{
+    border: 5px solid green;
+    margin: 0 auto;
+    max-width: 80dvw;
+    text-align: center;
+    max-height: 100%;
+  
+  }
+  
+  .card{
+    border: 5px solid blue;
+    margin: auto;
+    max-width: 100%;
+    width: 40rem;
+    /* display: flex;
+    align-items: center; */
+    display: grid;
+  }
+  
+  .form{
+    border: 5px solid purple;
+    margin: auto;
+  }
+  
+  

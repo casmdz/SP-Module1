@@ -1,0 +1,12 @@
+* {
+font-family: Roboto;
+}
+
+html, body {
+background-color: #c7c7c7;
+}
+
+body{
+    display: flex;
+}
+
